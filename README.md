@@ -1,5 +1,6 @@
 # IoT_Devices_Interaction_XR
- A prototype to demonstrate the interaction with IoT device using the future AR/MR HMDs
+ A prototype to demonstrate the interaction with IoT device using the future AR/MR HMDs.<br>
+ This prototype is a part of my Multi-Modal Interaction Design project.
  
  
 ![1](https://user-images.githubusercontent.com/65128826/232388900-2bf0a23b-f2da-40ec-ba77-ea1de7f41793.gif)
